@@ -6,7 +6,7 @@
     "author": "Alice Carter",
     "author_img": "https://www.gstatic.com/webp/gallery/2.jpg",
     "posted_date": "2024-10-01",
-    "reading_time": "5 min",
+    "reading_time": "5",
     "hashtags": ["#JavaScript", "#WebDevelopment", "#Programming"]
   },
   {
@@ -16,7 +16,7 @@
     "author": "John Smith",
     "author_img": "https://www.gstatic.com/webp/gallery/4.jpg",
     "posted_date": "2024-09-27",
-    "reading_time": "7 min",
+    "reading_time": "7",
     "hashtags": ["#CSS", "#Flexbox", "#Frontend"]
   },
   {
@@ -26,7 +26,7 @@
     "author": "Sophia Brown",
     "author_img": "https://www.gstatic.com/webp/gallery3/1.png",
     "posted_date": "2024-10-12",
-    "reading_time": "8 min",
+    "reading_time": "8",
     "hashtags": ["#React", "#JavaScript", "#Frontend"]
   },
   {
@@ -36,7 +36,7 @@
     "author": "David Nguyen",
     "author_img": "https://www.gstatic.com/webp/gallery/3.jpg",
     "posted_date": "2024-10-15",
-    "reading_time": "6 min",
+    "reading_time": "6",
     "hashtags": ["#Python", "#Coding", "#Backend"]
   },
   {
@@ -46,7 +46,7 @@
     "author": "Emma Thompson",
     "author_img": "https://www.gstatic.com/webp/gallery/5.jpg",
     "posted_date": "2024-10-20",
-    "reading_time": "9 min",
+    "reading_time": "9",
     "hashtags": ["#AI", "#WebDevelopment", "#MachineLearning"]
   }
 ]
